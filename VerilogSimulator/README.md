@@ -1,7 +1,3 @@
-Here's a draft of the `README.md` file for your Verilog simulator project:
-
----
-
 # Verilog Simulator
 
 This project is a Python-based Verilog simulator that utilizes Yosys to convert Verilog files into netlists and simulates the required test vectors.
